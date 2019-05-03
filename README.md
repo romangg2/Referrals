@@ -32,11 +32,15 @@
 
 **What do I do if my referral already applied through the career website instead?**
 Contact the recruiting team immediately, in order for us to flag the candidate as a referral. Otherwise, we won’t be able to capture them. 
+
 **Will I get an email when my referral moves to different stages?**
 No, but you can check the status on your dashboard page or check in with the recruiter.
+
 **What happens if my referral gets rejected?**
 The recruiter will reach out to you once your referral is rejected so you are aware.
+
 **What happens if my referral gets hired?**
 The recruiter will inform you and now we’ve added a great hire to the team, thanks to you! 
 
-
+**Still having trouble?**
+Contact the recruiting team, we are more than willing to help! 
