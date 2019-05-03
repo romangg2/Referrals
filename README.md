@@ -1,4 +1,4 @@
-# GH How To: Submit a Referral 
+# Submitting a Referral "How to Guide"
 
 1. **Login or activate** your Greenhouse account with your Mapbox email at https://app.greenhouse.io/users/ sign_in
 2. Click on the **+ sign** at the top right corner of your main page 
